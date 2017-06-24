@@ -1,0 +1,13 @@
+{
+    "name": "yszhangyh/zend-db",
+    "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yszhangyh/zend-db.git"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.7"
+    }
+}
